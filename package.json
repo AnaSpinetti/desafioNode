@@ -1,0 +1,27 @@
+{
+  "name": "desafio_node",
+  "version": "1.0.0",
+  "description": "Acessando dados de um arquivo Json com Node e Axios",
+  "main": "desafio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaSpinetti/desafioNode.git"
+  },
+  "keywords": [
+    "Node",
+    "Axios",
+    "Json"
+  ],
+  "author": "Ana Spinetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaSpinetti/desafioNode/issues"
+  },
+  "homepage": "https://github.com/AnaSpinetti/desafioNode#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
